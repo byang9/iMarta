@@ -12,6 +12,7 @@ https://www.clarifai.com/developer/signup/
 ```
 ```
 Installation & Configuration of Clarifai Package
+
 FOR MAC
 pip install clarifai --upgrade
 $ clarifai config
