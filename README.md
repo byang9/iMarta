@@ -5,7 +5,13 @@ iMarta is a program that would help assist Marta employees detect fights and tra
 Python 2.x or 3.x required.
 
 ```
-https://www.python.org/
+https://www.python.org/downloads/
+```
+
+Clarifai API / Access Key
+
+```
+https://www.clarifai.com/developer/signup/
 ```
 
 ## How to run
