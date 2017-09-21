@@ -1,5 +1,14 @@
 # iMarta
-iMarta is a program that would help assist Marta employees detect fights and trash in real time. It combines the power of AI and the many Marta cameras to create a safer and cleaner environment for Marta riders.
+iMarta is a program that would help assist Marta employees detect fights and trash in real time. It combines the power of AI and the many Marta cameras to create a safer and cleaner environment for Marta riders.### Prerequisites
+
+## Prerequisites
+Python 2.x or 3.x required
+Download Python at:
+
+```
+https://www.python.org/
+```
+
 ## How to run
 To run the application you have to follow the instructions [here](https://clarifai-python.readthedocs.io/en/latest/install/) to install and set up clarifai. Next you will have to train your clarifai AI. Next you will have to edit the python script to include your labels. Finally you are ready to run and test out your AI.
 ## The Technology
