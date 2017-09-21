@@ -11,7 +11,7 @@ Clarifai Access Key
 https://www.clarifai.com/developer/signup/
 ```
 ```
-**Installation & Configuration of Clarifai package**
+Installation & Configuration of Clarifai Package
 FOR MAC
 pip install clarifai --upgrade
 $ clarifai config
@@ -21,8 +21,8 @@ FOR WINDOWS
 C:\Python27>python.exe Scripts\clarifai config
 CLARIFAI_API_KEY: []: YOUR API KEY
 ```
-## How to run
-To run the application you have to follow the instructions [here](https://clarifai-python.readthedocs.io/en/latest/install/) to install and set up clarifai. Next you will have to train your clarifai AI. Next you will have to edit the python script to include your labels. Finally you are ready to run and test out your AI.
+## Running Tests
+To get started with the Clarifai API you have to follow the tutorial [here](https://clarifai-python.readthedocs.io/en/latest/tutorial/). Next you will have to train your Clarifai AI. Next you will have to edit the Python script to include your labels. Finally you are ready to run and test out your AI.
 ## The Technology
 The technologies we used to develop iMarta consisted of [Clarifai](https://www.clarifai.com/), and Python's OpenCV. We developed the code in Python, and used OpenCV to control the laptop camera and send frames to Clarifai. To train our AI we took over 200 photos and ran it through Clarifai's training process before testing our model in the python script. In the end our product was able to detect fighting scenes and trash on the floor.
 ## The Team
