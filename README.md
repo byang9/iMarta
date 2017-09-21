@@ -2,8 +2,7 @@
 iMarta is a program that would help assist Marta employees detect fights and trash in real time. It combines the power of AI and the many Marta cameras to create a safer and cleaner environment for Marta riders.### Prerequisites
 
 ## Prerequisites
-Python 2.x or 3.x required
-Download Python at:
+Python 2.x or 3.x required.
 
 ```
 https://www.python.org/
