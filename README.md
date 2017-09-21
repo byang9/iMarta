@@ -11,7 +11,7 @@ Clarifai Access Key
 https://www.clarifai.com/developer/signup/
 ```
 ```
-Installation & Configuration of Clarifai package
+**Installation & Configuration of Clarifai package**
 FOR MAC
 pip install clarifai --upgrade
 $ clarifai config
