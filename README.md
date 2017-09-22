@@ -29,7 +29,7 @@ The technologies we used to develop iMarta consisted of [Clarifai](https://www.c
 ## The Team
 Phuc Nguyen
 [Bowen Yang](https://github.com/byang9)
-Benson Yang
+[Benson Yang](https://github.com/byangschool)
 Rachel Lilja
 [James Nguyen](https://github.com/chamewin)
 
